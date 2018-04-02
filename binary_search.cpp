@@ -2,7 +2,7 @@
 
 using namespace std;
 
-//Бинарный поиск
+//Р‘РёРЅР°СЂРЅС‹Р№ РїРѕРёСЃРє
 int binary_search(int *array, int l, int r, int srch){
 
 
